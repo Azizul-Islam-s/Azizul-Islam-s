@@ -10,13 +10,12 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png' alt='linkedin' height='40'>]
-(https://www.linkedin.com/in/azizul-islam-5159bb1b1/) 
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-128.png' alt='facebook' height='40'>]
-(https://www.facebook.com/sdazizul.islam)
+  
+
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/azizul-islam-5159bb1b1/) 
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-128.png' alt='facebook' height='40'>](https://www.facebook.com/sdazizul.islam)
 
 </div>
-
 
 
 
@@ -27,9 +26,9 @@ Here are some ideas to get you started:
 </a>
   
 
-<a href="https://github.com/Azizul-Islam-s?tab=repositories">
+<!-- <a href="https://github.com/Azizul-Islam-s?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Azizul-Islam-s&theme=radical&hide_langs_below=0" />
-</a>
+</a> -->
 
 </div>
 
